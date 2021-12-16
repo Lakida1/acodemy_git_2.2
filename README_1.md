@@ -1,6 +1,6 @@
 #Natalja Lakida
 ##*Acodemy QA2 student*
->I am a tipical sweater :)  
+>I am a typical switcher :)  
 
 ##Education:
 - RTU,TTI,Master of science in transport and traffic engineering, Master Thesis: Technology's Analysis and Improvement Directions of Microsoft Business Solution
@@ -14,6 +14,6 @@
 - RigaTechGirl + English 
 - the list will be filled later:)
 ##Motivation:
->I want to get new professional skills to increase my possibilities to find new interesting job (will be edit:)
+>I want to get new professional skills to increase my possibilities to find new interesting job (will be edited:)
 
 > 
